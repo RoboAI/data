@@ -13,7 +13,7 @@
     <a2:Customer id="ref-3" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/lab_45_streaming/lab_45_streaming%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
       <NINO xsi:null="1" />
       <_x003C_CustomerID_x003E_k__BackingField id="ref-6">ALFKI</_x003C_CustomerID_x003E_k__BackingField>
-      <_x003C_ContactName_x003E_k__BackingField id="ref-7">Fred</_x003C_ContactName_x003E_k__BackingField>
+      <_x003C_ContactName_x003E_k__BackingField id="ref-7">Freddy007</_x003C_ContactName_x003E_k__BackingField>
       <_x003C_CompanyName_x003E_k__BackingField id="ref-8">Sparta</_x003C_CompanyName_x003E_k__BackingField>
       <_x003C_City_x003E_k__BackingField id="ref-9">Berlin</_x003C_City_x003E_k__BackingField>
     </a2:Customer>
